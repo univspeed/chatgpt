@@ -1,1 +1,1 @@
-# Liuyutang
+# Chatgpt language template channel
